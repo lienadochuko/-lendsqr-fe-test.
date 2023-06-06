@@ -428,6 +428,17 @@
 
         .backarror {
             margin-right:15px ;
+
+            
+            @media screen and (max-width:550px) { 
+               width: 20px;
+               height: 10px;
+               font-size: 7px;
+
+               img {
+                margin: 0%;
+               }
+             }
         }
     }
 
@@ -873,6 +884,12 @@
             margin-right: 5px;
             background: rgba(33, 63, 125, 0.1);
             border-radius: 4px;
+
+            
+            @media screen and (max-width:550px) { 
+                font-size: 7px;
+             }
+         
         }
 
         p {
@@ -882,6 +899,10 @@
             font-weight: 400;
             font-size: 14px;
             line-height: 16px;
+
+            @media screen and (max-width:550px) { 
+                font-size: 7px;
+             }
         }
     }
 
@@ -891,6 +912,11 @@
         height: 30px;
         align-items: center;
 
+        @media screen and (max-width:550px) { 
+            height: 15px;
+            margin-bottom: 20px;
+        }
+
         .btn {
             height: 22px;
             fill: $primary ;
@@ -899,8 +925,11 @@
             padding: 0%;
             background-color:#213F7D1A;
             align-items: center;
-            justify-content: center
-            ;
+            justify-content: center;
+
+            @media screen and (max-width:550px) { 
+                height: 15px;
+             }
           }
 
         .pagination__item {
@@ -917,6 +946,10 @@
                 color: '#213F7D';
                 opacity: 1;
             }
+
+            @media screen and (max-width:550px) { 
+                font-size: 10px;
+             }
         }
     }
 }
