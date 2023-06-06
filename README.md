@@ -29,11 +29,11 @@ Link to site - https://daniel-erhisohwode-lendsqr-fe-test.netlify.app/
 This app was built to fulfill the requirement of lendsqr frontend engineer canditates,
 It was developed using 
 
-# React(React.ts)
-# Typescript
-# Sass/Scss
-# Css
-# Node(npm)
+- React(React.ts)
+- Typescript
+- Sass/Scss
+- Css
+- Node(npm)
 
 
 # Owner
