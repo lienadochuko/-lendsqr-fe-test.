@@ -24,6 +24,7 @@ SCSS must be used for style processing
 The application was developed in approximately 5 days following the provided figma design
 
 Given the design here: https://www.figma.com/file/ZKILoCoIoy1IESdBpq3GNC/Frontend
+
 Link to site - https://daniel-erhisohwode-lendsqr-fe-test.netlify.app/
 
 This app was built to fulfill the requirement of lendsqr frontend engineer canditates,
