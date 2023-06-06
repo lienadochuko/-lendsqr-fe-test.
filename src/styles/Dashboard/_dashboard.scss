@@ -121,7 +121,13 @@
             font-style: normal;
             font-weight: 400;
             font-size: 14px;
+            
         }
+
+        
+        @media screen and (max-width:550px) {      
+          font-size: 7px;
+       }
     }
     
     .button {
@@ -134,11 +140,21 @@
         right: 0;
         display: flex;
         justify-content: center;
-        align-items: center;
+        align-items: center; 
+
+        @media screen and (max-width:550px) {      
+          height: 24px;
+       }
     
         i {
             color: $white;
+             
+        @media screen and (max-width:550px) {      
+          height: 24;
+       }
         }
+
+       
     }
   }
   .comp2{
