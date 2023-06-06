@@ -19,7 +19,7 @@
     .title {
         font-family: 'Work Sans';
         font-style: normal;
-        font-weight: 500;
+        font-weight: 500; 
         font-size: 24px;
         line-height: 28px;
         color: $primary;
@@ -234,7 +234,7 @@
                             border-radius: 8px;
                             height: 20px;
                             margin: 0px;
-                            padding: 10%;
+                            padding: 5%;
 
                             @media screen and (max-width:1000px) {
                                height: 14%;
