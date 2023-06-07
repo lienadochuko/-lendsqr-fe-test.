@@ -27,6 +27,10 @@ Given the design here: https://www.figma.com/file/ZKILoCoIoy1IESdBpq3GNC/Fronten
 
 Link to site - https://daniel-erhisohwode-lendsqr-fe-test.netlify.app/
 
+
+Email - lendqr@gmail.com
+Password- Lendsqr12#
+
 This app was built to fulfill the requirement of lendsqr frontend engineer canditates,
 It was developed using 
 
