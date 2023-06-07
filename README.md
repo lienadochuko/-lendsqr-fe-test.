@@ -29,6 +29,7 @@ Link to site - https://daniel-erhisohwode-lendsqr-fe-test.netlify.app/
 
 
 Email - lendqr@gmail.com
+
 Password- Lendsqr12#
 
 This app was built to fulfill the requirement of lendsqr frontend engineer canditates,
