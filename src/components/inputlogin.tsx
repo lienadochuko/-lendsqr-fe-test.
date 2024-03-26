@@ -20,7 +20,7 @@ const Input : React.FC = () => {
 
   useEffect(() => {
     console.log(isFree)
-  }, [isVisibile, isFree]);
+  }, [isVisibile, isFree]); 
 
 
   const goto = () => {

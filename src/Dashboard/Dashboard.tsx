@@ -93,7 +93,7 @@ const Dashboard : React.FC = ()=> {
           return <NotFound/>
         }
         else {
-            return <Dashboardscreen/>
+            return <Home/>
         }
     }
 
